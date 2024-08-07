@@ -24,5 +24,7 @@ PDF-Content-Page-Classifier is a sequential neural network model designed to acc
  
 - **Performance Improvement:**
   - Adding more data improved performance.
-
+ 
+## Train the Model
+  - You need to provide your own Data to train the model
 
